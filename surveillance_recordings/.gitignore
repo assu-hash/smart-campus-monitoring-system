@@ -1,0 +1,9 @@
+# Ignore Python cache
+
+**pycache**/
+*.pyc
+
+# Ignore recordings folder
+
+surveillance_recordings/
+*.mp4
